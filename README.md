@@ -55,8 +55,8 @@ Carry out the strategies listed above.
 Schedule regular check-ups to ensure measures are in place and effective.
 
 ### Monitor and Review:
-Regularly check network logs for unusual activity.
-Review and update the risk assessment annually or when significant changes occur in the network setup.
+- Regularly check network logs for unusual activity.
+- Review and update the risk assessment annually or when significant changes occur in the network setup.
 
 ### Documentation:
 Keep detailed records of the risk assessment process, including identified risks, analysis, and mitigation strategies.
