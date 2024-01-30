@@ -4,6 +4,15 @@
 
 ### Home Network Description: 
 A typical suburban home with various connected devices, including two laptops, three smartphones, a smart TV, a gaming console, and a Wi-Fi-enabled home security system.
+| Quantity | Device  | Manufacturer  |
+| ------------- | ------------- | ------------- |
+| 1 | MacBook Pro 16" M3 Pro Laptop | Apple |
+| 1 | Blade 16" 4080 RTX Laptop | Razer |
+| 2 | iPhone 14 Pro | Apple |
+| 1 | Galaxy S21 Smartphone | Samsung |
+| 1 | 55" OLED 4K UHD Smart TV | Samsung |
+| 1 | Playstation 5 Console | Sony |
+| 1 | Video Doorbell | Ring |
 
 ### Define the Scope:
 #### Objective: 
