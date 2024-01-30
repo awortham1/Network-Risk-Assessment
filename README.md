@@ -1,3 +1,5 @@
+![](images/risk_management_banner.png)
+
 # Home Network Risk Assessment
 
 ### Home Network Description: 
