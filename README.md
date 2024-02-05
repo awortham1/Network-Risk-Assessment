@@ -1,6 +1,8 @@
-![](images/risk_management_banner.png)
+
 
 # Home Network Risk Assessment
+
+![](images/risk_management_banner.png)
 
 ### Home Network Description: 
 A typical suburban home with various connected devices, including two laptops, three smartphones, a smart TV, a gaming console, and a Wi-Fi-enabled home security system.
